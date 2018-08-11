@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry external="true" kind="lib" path="D:/Program Files/eclipse/plugins/connector-j-5.1-en.html-chapter.jar"/>
+	<buildpathentry external="true" kind="lib" path="D:/Program Files/eclipse/plugins/mysql-connector-java-5.1.7-bin.jar"/>
+</buildpath>

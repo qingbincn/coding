@@ -1,0 +1,11 @@
+Create\ Empty\ Directories=true
+Password=ftpji2**
+Recurse\ Subdirectories=true
+Save\ Password=true
+Site\ Root=/
+Username=ftpji2
+eclipse.preferences.version=1
+port=87
+protocol=1
+server=139.224.28.84
+timeout=30
