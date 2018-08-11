@@ -1,9 +1,9 @@
 <?php
 // Coding部署
 return [
-    'source'  => '/mydata/res/coding',
-    'target'  => '/mydata/ftp/coding',
-    'backup'  => $config['backup'].'/coding',
+    'source'  => '/mydata/res/books',
+    'target'  => '/mydata/www/books',
+    'backup'  => $config['backup'].'/books',
     'shell'   => 'sudo /etc/init.d/httpd restart',
     'refresh' => [
         'public/h5/index.html'
