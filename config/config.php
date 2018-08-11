@@ -9,10 +9,10 @@
 $config = array();
 
 // 日志目录
-$config['logs'] = '/coding/logs';
+$config['logs'] = '/mydata/logs';
 
 // 备份目录
-$config['backup'] = '/coding/backup';
+$config['backup'] = '/mydata/backup';
 
 // TOKEN
 $config['token'] = '10db32ebc87929d4e14a0c2933abcdedd';
